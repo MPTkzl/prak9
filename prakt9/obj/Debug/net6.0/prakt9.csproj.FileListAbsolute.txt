@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\prakt9\prakt9\bin\Debug\net6.0\prakt9.exe
+C:\Users\Admin\source\repos\prakt9\prakt9\bin\Debug\net6.0\prakt9.deps.json
+C:\Users\Admin\source\repos\prakt9\prakt9\bin\Debug\net6.0\prakt9.runtimeconfig.json
+C:\Users\Admin\source\repos\prakt9\prakt9\bin\Debug\net6.0\prakt9.dll
+C:\Users\Admin\source\repos\prakt9\prakt9\bin\Debug\net6.0\prakt9.pdb
+C:\Users\Admin\source\repos\prakt9\prakt9\obj\Debug\net6.0\prakt9.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\prakt9\prakt9\obj\Debug\net6.0\prakt9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\prakt9\prakt9\obj\Debug\net6.0\prakt9.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\prakt9\prakt9\obj\Debug\net6.0\prakt9.AssemblyInfo.cs
+C:\Users\Admin\source\repos\prakt9\prakt9\obj\Debug\net6.0\prakt9.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\prakt9\prakt9\obj\Debug\net6.0\prakt9.dll
+C:\Users\Admin\source\repos\prakt9\prakt9\obj\Debug\net6.0\refint\prakt9.dll
+C:\Users\Admin\source\repos\prakt9\prakt9\obj\Debug\net6.0\prakt9.pdb
+C:\Users\Admin\source\repos\prakt9\prakt9\obj\Debug\net6.0\prakt9.genruntimeconfig.cache
+C:\Users\Admin\source\repos\prakt9\prakt9\obj\Debug\net6.0\ref\prakt9.dll
